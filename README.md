@@ -4,3 +4,7 @@
 2. go to backend -> npm install (RUN TWO COMMANDS)
    1. npx tsc --watch (terminal 1)
    2. node dist/server.js (terminal 2)
+
+
+database:
+1. mongodb -> connection URI -> mongodb://localhost:27017/blog-app
